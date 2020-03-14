@@ -1,13 +1,23 @@
----Hello--- 
+---DISCLAIMER---
+
+yes it does exactly what it says it does
+
+This will NOT be able to run on Arch based distros or NON debain based operating systems
+ONLY for use in Ubuntu or Debain.
+
+THIS SHOULD BE COMPLETELY FOR PERSONAL USE
+I AM NOT HELD LIABLE FOR ANYTHING DONE WITH THIS SCRIPT
+
+
+---Running the script--- 
 
 PLEASE RUN THE PREREQUISITES SCRIPT FIRST
 
 this will install the necessary packages to use my script
 
------------
-
+------------
 Instructions
-
+------------
 
 
 Run the script after allowing its execution
